@@ -17,6 +17,9 @@ Clone (download) a repository that already exists on
 GitHub, including all of the files, branches, and commits
 git clone https://github.com/Stat1xe/Stat1xe
 
+git add [file]
+Snapshots the file in preparation for versioning
+
 git push
 Uploads all local branch commits to GitHub
 
